@@ -1,7 +1,7 @@
 function T = load_data(code_commune)
     commune_str = num2str(code_commune);
     % Construct the URL from the commune code
-    url = ['https://files.data.gouv.fr/geo-dvf/latest/csv/2023/communes/', ...
+    url = ['https://files.data.gouv.fr/geo-dvf/latest/csv/2024/communes/', ...
            commune_str(1:2) '/', commune_str, '.csv'];
        
     % Read the CSV data from the URL
