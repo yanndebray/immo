@@ -5,5 +5,5 @@
 🏠 Real Estate prices in French cities
 
 Focused view: 
-- [https://matlab.mathworks.com/open/github/v1?repo=yanndebray/immo&file=immo.mlx&focus=true](Live script)
-- [https://matlab.mathworks.com/open/github/v1?repo=yanndebray/immo&file=immo.mlapp&focus=true](App)
+- [Live script](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/immo&file=immo.mlx&focus=true)
+- [App](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/immo&file=immo.mlapp&focus=true)
